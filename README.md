@@ -18,5 +18,7 @@ After the user responds to the referred products, they are included in the autom
 
 <h4>How to Install a Library?</h4>
 <i>pip install lib</i>
-
+---
+--
+-
 Next update: the user must inform the percentage (%) and it will automatically calculate its value before and after the discount
